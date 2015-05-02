@@ -20,9 +20,3 @@ if __name__ == "__main__":
 
     sc.stop()
 
-
-    # word count file
-    # go through word count + go through all transformations + open ended OR modify word count
-        # average word count per sentence?
-    # GITHUB or email
-    # Clean up prezi path
