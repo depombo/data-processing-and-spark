@@ -8,8 +8,10 @@ The slides to the presentation can be found here: https://prezi.com/htjybybpltsz
 - Download latest, compiled Spark version here: http://www.apache.org/dyn/closer.cgi/spark/spark-1.3.1/spark-1.3.1-bin-cdh4.tgz
 - Unzip and navigate to the folder in your command line with:
 	```cd ~/Downloads_or_wherever_it saved to/spark-1.3.1-bin-cdh4```
+	
 - All you need to do now is start Spark with the following command:
 ```./sbin/start-master.sh```
+
 - Run the following command and make sure you get access to an interactive python shell:
 ```./bin/pyspark --master local[2]```
 
