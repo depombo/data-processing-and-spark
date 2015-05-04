@@ -46,11 +46,10 @@ Lets start simple. Create a python script that:
 
 The first two requirements are already done for you.  
 
+(2)
 ```
 avg_word_count_per_sentence.py
 ```
-
-(2)
 Now you are solving the same problem but using a Spark Job. The code as-is loads the text file for you into an RDD. It's up to you to Transform that Base RDD and then get the desired value through an Action.
 
 Remember to look at the word_count.py exercise and Spark API (https://spark.apache.org/docs/latest/programming-guide.html#transformations and https://spark.apache.org/docs/latest/programming-guide.html#actions) for inspiration.
