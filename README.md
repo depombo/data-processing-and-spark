@@ -1,5 +1,5 @@
 ### Introduction to Big Data Processing - Workshop
-#### Latin@ Coder Summit 2015
+#### LOFT Latin@ Coder Summit 2015
 
 The slides to the presentation can be found here: https://prezi.com/htjybybpltsz/introduction-to-big-data-processing/
 
